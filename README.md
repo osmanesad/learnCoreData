@@ -1,0 +1,2 @@
+# learnCoreData
+ Öğren, tekrarla, öğren.
